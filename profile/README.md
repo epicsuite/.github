@@ -14,4 +14,5 @@ needs for extreme scale epigenetics data.
 ### Links to previous work
 
 The software developed for the EPIC project is a continuation of work previously done under Los Alamos National Laboratory's
-LDRD program. [Browser](http://www.github.com/LANL/4DGB) and workflow repositories
+LDRD program. [Browser](http://www.github.com/LANL/4DGB) and [workflow](https://www.github.com/4DGB) repositories developed 
+under this funding resulted in toolsets that were built on in various ways by the EPIC project.
